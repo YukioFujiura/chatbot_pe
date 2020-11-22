@@ -1,0 +1,26 @@
+ID,Pergunta,A,Nó A,B,Nó B
+1,Vista desagradavel?,SIM,2,NÃO,3
+2,Quantidade grande de quartos?,SIM,5,NÃO,4
+3,NÓ FOLHA,SAIDA 3,,,
+4,Quantidade baixa de banheiros?,SIM,6,NÃO,7
+5,Imóvel em más condições?,SIM,8,NÃO,9
+6,NÓ FOLHA,SAIDA 6,,,
+7,Quantidade baixa de quartos,SIM,10,NÃO,11
+8,NÓ FOLHA,SAIDA 8,,,
+9,NÓ FOLHA,SAIDA 9,,,
+10,Quantidade baixa de banheiros?,SIM,12,NÃO,13
+11,Quantidade baixa de banheiros?,SIM,14,NÃO,15
+12,Imóvel em más condições?,SIM,16,NÃO,17
+13,Imóvel em más condições?,SIM,18,NÃO,19 
+14,Imóvel em más condições?,SIM,20,NÃO,21
+15,Quantidade média de banheiros?,SIM,22,NÃO,23 
+16,NÓ FOLHA,SAIDA 16,,,
+17,NÓ FOLHA,SAIDA 17,,,
+18,NÓ FOLHA,SAIDA 18,,,
+19,NÓ FOLHA,SAIDA 19,,,
+20,NÓ FOLHA,SAIDA 20,,,
+21,NÓ FOLHA,SAID 21,,,
+22,Imóvel em más condições?,SIM,24,NÃO,25
+23,NÓ FOLHA,SAIDA 23,,,
+24,NÓ FOLHA,SAIDA 24,,,
+25,NÓ FOLHA,SAIDA 25,,,
