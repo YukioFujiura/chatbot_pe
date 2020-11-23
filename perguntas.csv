@@ -1,11 +1,11 @@
 ID,Pergunta,A,Nó A,B,Nó B
 1,Vista ruim?,SIM,2,NÃO,3
-2,Quantidade grande de quartos?,SIM,5,NÃO,4
+2,Muitos quartos?,SIM,5,NÃO,4
 3,NÓ FOLHA,ACIMA DO PREÇO DE MERCADO,,,
-4,Quantidade baixa de banheiros?,SIM,6,NÃO,7
+4,Poucos Banheiros?,SIM,6,NÃO,7
 5,Imóvel em más condições?,SIM,8,NÃO,9
 6,NÓ FOLHA,ACIMA DO PREÇO DE MERCADO,,,
-7,Quantidade baixa de quartos,SIM,10,NÃO,11
+7,Poucos Quartos?,SIM,10,NÃO,11
 8,NÓ FOLHA,PREÇO DE MERCADO NA MÉDIA,,,
 9,NÓ FOLHA,ABAIXO DO PREÇO DE MERCADO,,,
 10,Quantidade de banheiros abaixo da média?,SIM,12,NÃO,13
@@ -13,7 +13,7 @@ ID,Pergunta,A,Nó A,B,Nó B
 12,Imóvel em más condições?,SIM,16,NÃO,17
 13,Imóvel em más condições?,SIM,18,NÃO,19 
 14,Imóvel em más condições?,SIM,20,NÃO,21
-15,Quantidade de banheiros acima da média?,SIM,22,NÃO,23 
+15,Muitos banheiros?,SIM,23,NÃO,22 
 16,NÓ FOLHA,MÉDIA DE PREÇO DE MERCADO,,,
 17,NÓ FOLHA,MÉDIA DE PREÇO DE MERCADO,,,
 18,NÓ FOLHA,ABAIXO DO PREÇO DE MERCADO,,,
